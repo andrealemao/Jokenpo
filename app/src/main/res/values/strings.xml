@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jokenpo</string>
+    <string name="escolher">Escolha o App</string>
+    <string name="chooseOption">Escolha uma opção abaixo</string>
+    <string name="rockImage">Imagem pedra</string>
+    <string name="paperImage">Imagem papel</string>
+    <string name="scissorImage">Imagem tesoura</string>
+    <string name="resultImage">Imagem resultado</string>
+</resources>
